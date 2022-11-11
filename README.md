@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey, I'm Joshua, a full-stack developer from Washington State
 
+<a href = "https://www.linkedin.com/in/joshua-ren-48822a21b/">Linkedin</a>
 <!--
 **Joahie/Joahie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
